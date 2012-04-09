@@ -1,0 +1,2 @@
+To build (into ../ruby/rails/jars)
+    mvn clean compile jar:jar
